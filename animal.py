@@ -15,7 +15,7 @@ def main():
     else:
          default()
 =======
-    if sys.argv[1] == 'dog':
+    if sys.argv[1] == 'My dog':
         dog()
     else:        
         default()
